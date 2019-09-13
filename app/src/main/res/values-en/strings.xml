@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_usermame">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_accout">¿No tienes cuenta?</string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="firstword_card">Hace</string>
+    <string name="home">Inicio</string>
+    <string name="search">Buscar</string>
+    <string name="profile">Yo</string>
+</resources>
